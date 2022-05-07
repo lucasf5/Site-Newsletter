@@ -25,11 +25,6 @@
 ### Preview
 
 <div>
-    <video width="320" height="240" controls="controls" autoplay="autoplay">
-    <source src="./image/screencast-avatars.githubusercontent.com-2022.05.07-16_00_00.webm" type="video/mp4">
-    <object data="" width="320" height="240">
-    <embed width="320" height="240" src="./image/screencast-avatars.githubusercontent.com-2022.05.07-16_00_00.webm">
-   <img src="./image/paginaDesktop.png" width="400px" />
    <img src="./image/paginaDesktop.png" width="800px" />
    <img src="./image/Pagina1.png" width="400px" />
    <img src="./image/paginaMobile.png" width="400px" />
