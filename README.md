@@ -1,4 +1,6 @@
-# Newsletter feito com Tailwind CSS
+<h1 align="center">
+   Newsletter feito com Tailwind CSS
+</h1>
 
 <p align="center">
    <img src="./image/logo-tailwind.png" alt="Tailwind" width="280"/>
@@ -14,7 +16,6 @@
 
 # :pushpin: Conteúdo
 
-- [Newsletter feito com Tailwind CSS](#newsletter-feito-com-tailwind-css)
 - [:pushpin: Conteúdo](#pushpin-conteúdo)
     - [Preview](#preview)
 - [:computer: Tecnologias](#computer-tecnologias)
@@ -29,6 +30,7 @@
     <object data="" width="320" height="240">
     <embed width="320" height="240" src="./image/screencast-avatars.githubusercontent.com-2022.05.07-16_00_00.webm">
    <img src="./image/paginaDesktop.png" width="400px" />
+   <img src="./image/paginaDesktop.png" width="800px" />
    <img src="./image/Pagina1.png" width="400px" />
    <img src="./image/paginaMobile.png" width="400px" />
 </div>
@@ -45,7 +47,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
+      <a href="http://github.com/lucasf5/">
         <img src="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" width="100px;" alt="Lucas Ferreira"/>
         <br />
         <sub>
@@ -58,7 +60,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
        <a href="https://www.linkedin.com/in/lucasfpnt/" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="http://github.com/lucasf5/">
+      <a href="https://cursos.alura.com.br/dashboard">
         <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="100px;" alt="Alura"/>
         <br />
         <sub>
@@ -76,4 +78,3 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 # :closed_book: Licença
 
 Este projeto está sob a licença [MIT](./LICENSE).
-
