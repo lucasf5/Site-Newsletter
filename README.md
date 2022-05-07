@@ -1,4 +1,6 @@
-# Newsletter feito com Tailwind CSS
+<h1 align="center">
+   Newsletter feito com Tailwind CSS
+</h1>
 
 <p align="center">
    <img src="./image/logo-tailwind.png" alt="Tailwind" width="280"/>
@@ -24,7 +26,7 @@
 ### Preview
 
 <div>
-   <img src="./image/paginaDesktop.png" width="400px" />
+   <img src="./image/paginaDesktop.png" width="800px" />
    <img src="./image/Pagina1.png" width="400px" />
    <img src="./image/paginaMobile.png" width="400px" />
 </div>
